@@ -1,10 +1,25 @@
-## WordPress AJAX Contact Form Plugin
+##  Custom Contact Form WordPress Plugin
 
-🔹 Pixel-perfect Figma Design based  
-🔹 AJAX Submit + Admin Entries  
-🔹 Secure with Nonce  
-🔹 Shortcode: [custom_contact_form]  
-🔹 Designed by Rohit Nakrani
+This plugin creates a fully AJAX-powered contact form styled exactly like the Figma design.
 
-📷 Screenshots below  
-📺 Demo video (optional)
+## Features
+- AJAX Form Submission
+- Custom Post Type for Entries
+- Admin Panel to View Entries
+- Figma-Pixel-Perfect Design
+- Shortcode: [custom_contact_form]
+- Logged-in user auto-fill
+- Email Notifications
+- Secure (Nonce + Sanitize)
+
+## Installation
+1. Download the ZIP
+2. Upload via WP Admin > Plugins > Add New
+3. Use [custom_contact_form] shortcode on any page
+
+## Demo
+Screenshot or GIF
+
+## Developer
+Rohit Nakrani
+**
